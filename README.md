@@ -4,7 +4,7 @@ A visually appealing **Amazon homepage clone** built using **HTML and CSS**. Thi
 
 ## 🌐 Demo
 
-You can view the live demo here: [Live Site](#) <!-- Replace # with actual link when deployed -->
+You can view the live demo here: amazon-clone-11.netlify.app/
 
 ## 💡 Features
 
