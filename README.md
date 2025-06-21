@@ -6,16 +6,6 @@ A visually appealing **Amazon homepage clone** built using **HTML and CSS**. Thi
 
 You can view the live demo here: [Live Site](#) <!-- Replace # with actual link when deployed -->
 
-## 📁 Project Structure
-AmazoneCloneProject/
-│
-├── index.html # Main HTML file <br>
-├── style.css # Styling for the project <br>
-├── amazon.png # Logo used in navbar <br>
-├── hero_img.png # Hero section image <br>
-├── box1_img.png - box8.png # Product category images <br>
-├── .git/ # Git repository metadata <br>
-
 ## 💡 Features
 
 - Fully responsive layout
